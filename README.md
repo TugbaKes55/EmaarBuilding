@@ -5,7 +5,7 @@
 # Features
 
 - It allows switching between pictures with the Slider feature.
-- A responsive structure was established using Flexbox and Grid CSS techniques. In this way, a compatible appearance is provided even on different screen sizes.
+- A responsive structure was established that a compatible appearance is provided even on different screen sizes.
 - Various techniques were used in the project to provide an aesthetic appearance with user-friendly interface.
 
 # Used Technologies
